@@ -5,4 +5,5 @@ echo "Will be adding ($NUMBERONE and $NUMBERTWO)"
 echo "Addition of two numbers is :$NUMBER"
 echo "This was added 1....."
 echo "This was added now...----"
-echo "This was added 2.....auto push"
+echo "This was added 2.....auto push2"
+
